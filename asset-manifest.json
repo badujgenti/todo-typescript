@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-typescript/static/css/main.117e91e0.css",
+    "main.js": "/todo-typescript/static/js/main.1a0f9f67.js",
+    "static/media/boy2.png": "/todo-typescript/static/media/boy2.42291cec0ed7c87f76a3.png",
+    "static/media/boy3.jpeg": "/todo-typescript/static/media/boy3.1415cfe242ef2776b22f.jpeg",
+    "index.html": "/todo-typescript/index.html",
+    "main.117e91e0.css.map": "/todo-typescript/static/css/main.117e91e0.css.map",
+    "main.1a0f9f67.js.map": "/todo-typescript/static/js/main.1a0f9f67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.117e91e0.css",
+    "static/js/main.1a0f9f67.js"
+  ]
+}
